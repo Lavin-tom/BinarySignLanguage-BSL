@@ -22,16 +22,16 @@ For example, the letter **A** corresponds to the binary value **00001** (binary 
 |------------|-----------------------|----------------------------|----------------------------------|
 | A          | 1                     | 00001                      | 🔲🔲🔲🔲🟩 (1st finger raised)    |
 | B          | 2                     | 00010                      | 🔲🔲🔲🟩🔲 (2nd finger raised)    |
-| C          | 3                     | 00011                      | 🔲🔲🔲🟩🟩 (3rd finger raised)    |
-| D          | 4                     | 00100                      | 🔲🔲🟩🔲🔲 (4th finger raised)    |
-| E          | 5                     | 00101                      | 🔲🔲🟩🔲🟩 (5th finger raised)    |
-| F          | 6                     | 00110                      | 🔲🔲🟩🟩🔲 (1st and 2nd fingers raised) |
+| C          | 3                     | 00011                      | 🔲🔲🔲🟩🟩 (1st and 2nd finger raised)    |
+| D          | 4                     | 00100                      | 🔲🔲🟩🔲🔲 (3rd finger raised)    |
+| E          | 5                     | 00101                      | 🔲🔲🟩🔲🟩 (1st and 3rd finger raised)    |
+| F          | 6                     | 00110                      | 🔲🔲🟩🟩🔲 (2nd and 3rd fingers raised) |
 | G          | 7                     | 00111                      | 🔲🔲🟩🟩🟩 (1st, 2nd, and 3rd fingers raised) |
-| H          | 8                     | 01000                      | 🔲🟩🔲🔲🔲 (1st finger raised)    |
-| I          | 9                     | 01001                      | 🔲🟩🔲🔲🟩 (1st and 5th fingers raised) |
-| J          | 10                    | 01010                      | 🔲🟩🔲🟩🔲 (1st and 4th fingers raised) |
-| K          | 11                    | 01011                      | 🔲🟩🔲🟩🟩 (1st, 4th, and 5th fingers raised) |
-| L          | 12                    | 01100                      | 🔲🟩🟩🔲🔲 (2nd and 3rd fingers raised) |
+| H          | 8                     | 01000                      | 🔲🟩🔲🔲🔲 (4th finger raised)    |
+| I          | 9                     | 01001                      | 🔲🟩🔲🔲🟩 (1st and 4th fingers raised) |
+| J          | 10                    | 01010                      | 🔲🟩🔲🟩🔲 (2nd and 4th fingers raised) |
+| K          | 11                    | 01011                      | 🔲🟩🔲🟩🟩 (1st, 2nd, and 4th fingers raised) |
+| L          | 12                    | 01100                      | 🔲🟩🟩🔲🔲 (3rd and 4th fingers raised) |
 | M          | 13                    | 01101                      | 🔲🟩🟩🔲🟩 (2nd, 3rd, and 5th fingers raised) |
 | N          | 14                    | 01110                      | 🔲🟩🟩🟩🔲 (2nd, 3rd, and 4th fingers raised) |
 | O          | 15                    | 01111                      | 🔲🟩🟩🟩🟩 (2nd, 3rd, 4th, and 5th fingers raised) |

@@ -32,12 +32,12 @@ For example, the letter **A** corresponds to the binary value **00001** (binary 
 | J          | 10                    | 01010                      | 🔲🟩🔲🟩🔲 (2nd and 4th fingers raised) |
 | K          | 11                    | 01011                      | 🔲🟩🔲🟩🟩 (1st, 2nd, and 4th fingers raised) |
 | L          | 12                    | 01100                      | 🔲🟩🟩🔲🔲 (3rd and 4th fingers raised) |
-| M          | 13                    | 01101                      | 🔲🟩🟩🔲🟩 (2nd, 3rd, and 5th fingers raised) |
+| M          | 13                    | 01101                      | 🔲🟩🟩🔲🟩 (1st, 3rd, and 4th fingers raised) |
 | N          | 14                    | 01110                      | 🔲🟩🟩🟩🔲 (2nd, 3rd, and 4th fingers raised) |
-| O          | 15                    | 01111                      | 🔲🟩🟩🟩🟩 (2nd, 3rd, 4th, and 5th fingers raised) |
-| P          | 16                    | 10000                      | 🟩🔲🔲🔲🔲 (1st finger raised)    |
+| O          | 15                    | 01111                      | 🔲🟩🟩🟩🟩 (1st, 2nd, 3rd and 4th fingers raised) |
+| P          | 16                    | 10000                      | 🟩🔲🔲🔲🔲 (5th finger raised)    |
 | Q          | 17                    | 10001                      | 🟩🔲🔲🔲🟩 (1st and 5th fingers raised) |
-| R          | 18                    | 10010                      | 🟩🔲🔲🟩🔲 (1st and 4th fingers raised) |
+| R          | 18                    | 10010                      | 🟩🔲🔲🟩🔲 (2nd and 5th fingers raised) |
 | S          | 19                    | 10011                      | 🟩🔲🔲🟩🟩 (1st, 4th, and 5th fingers raised) |
 | T          | 20                    | 10100                      | 🟩🔲🟩🔲🔲 (1st and 3rd fingers raised) |
 | U          | 21                    | 10101                      | 🟩🔲🟩🔲🟩 (1st, 3rd, and 5th fingers raised) |

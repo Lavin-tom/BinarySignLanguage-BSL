@@ -59,7 +59,7 @@ For each letter, the raised fingers represent a binary value that corresponds to
 For example:
 - **A**: Binary `00001` → Only the **5th finger** is raised.
 - **B**: Binary `00010` → Only the **4th finger** is raised.
-- **C**: Binary `00011` → The **4th and 5th fingers** are raised.
+- **C**: Binary `00011` → The **1st and 2nd fingers** are raised.
 
 ---
 
